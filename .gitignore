@@ -55,6 +55,14 @@ cover/
 *.mo
 *.pot
 
+# custom 
+cloude/
+uploads/*
+!uploads/.gitkeep
+!uploads/not to delete
+ml-model/*
+!ml-model/.gitkeep
+
 # Django stuff:
 *.log
 local_settings.py
